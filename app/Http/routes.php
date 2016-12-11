@@ -20,7 +20,8 @@ views contain our designs, layouts that we display to the customer
 */
 
 Route::get('/', function () {
-    echo 'welcome to my first laravel project!! :P ';
+    echo 'welcome to my first laravel project!! :P :P :P :P
+    ';
 });
 
 Route::get('users',function(){
